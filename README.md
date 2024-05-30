@@ -1,6 +1,6 @@
 ## Sobre mim 💼
 
-  Olá! Meu nome é Pedro Antonio Souza, e estou concluindo minha graduação em Engenharia Ambiental e Sanitária. Durante meu curso, tive meu primeiro contato com a programação, e desde então, tenho explorado esse mundo fascinante com entusiasmo crescente.
+  Olá! Meu nome é Pedro Antonio Souza, e estou concluindo minha graduação em Engenharia Ambiental e Sanitária. Durante meu curso, tive meu primeiro contato com a programação, e desde então, tenho explorado esse mundo fascinante com entusiasmo.
 
   Com o objetivo de me aprofundar nessa nova jornada, busquei oportunidades de aprendizado durante minha formação. Foi assim que fui selecionado para participar do programa Santander Coders 2023.2 para Desenvolvimento Back-End. Essa experiência não apenas ampliou meus conhecimentos, mas também solidificou meu desejo de atuar nessa área empolgante e desafiadora. Atualmente, estou ansioso para embarcar nessa primeira oportunidade profissional e contribuir de maneira significativa para o desenvolvimento de soluções inovadoras.
 
@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/pedrosouzadm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-## 📈 Atvidades GitHub:
+## 📈 Atividades no GitHub:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrosouzadm&show_icons=true&cache_seconds=86400&theme=midnight-purple&rank_icon=github)](https://github.com/pedrosouzadm)
 <a href="https://github.com/pedrosouzadm">
